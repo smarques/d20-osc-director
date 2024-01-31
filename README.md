@@ -13,3 +13,8 @@ It seems some monitors and kvms toggle hotplug when they shouldn't. You can disa
     “vc4.force_hotplug=3” if using HDMI 0 and 1
 
 This suggestion came from one of the Pi engineers viewtopic.php?p=2146832&hilit=waggle+hotplug#p2146832
+
+LINKS
+
+ARDOUR OSC: https://manual.ardour.org/using-control-surfaces/controlling-ardour-with-osc/osc-control/
+
